@@ -1,0 +1,18 @@
+Weather Stats for - Gurgaon  | 21 Jun | 10:48 PM
+-------------------------------------------------------------
+Current Temperature: {temp}
+Maximum\Miminum Temperature: {max_temp}\{min_temp}
+Humidity: {humidity}	 Conditions: {condition}
+Wind Speed: {wind_speed}
+-----------------------**********-------------------------
+
+
+Weather Stats for - Gurgaon  | 21 Jun | 10:49 PM
+-------------------------------------------------------------
+Current Temperature: {temp}
+Maximum\Miminum Temperature: {max_temp}\{min_temp}
+Humidity: {humidity}	 Conditions: {condition}
+Wind Speed: {wind_speed}
+-----------------------**********-------------------------
+
+
