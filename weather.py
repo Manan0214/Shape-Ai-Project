@@ -3,7 +3,7 @@ import datetime as dt
 
 api_key = "0b530067c36ff1b4c6b44057e2164f6b"
 
-location = str(input("Enter your location"))
+location = str(input("Enter your location: "))
 
 data = r.get(f"https://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}")
 json_data = data.json()
